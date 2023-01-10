@@ -1,0 +1,11 @@
+[package]
+name = "surrealql"
+publish = true
+edition = "2021"
+version = "0.0.0"
+authors = ["Tobie Morgan Hitchcock <tobie@surrealdb.com>"]
+description = "SurrealQL data types for use in SurrealDB"
+homepage = "https://github.com/surrealdb/surrealdb-macros"
+repository = "https://github.com/surrealdb/surrealdb-macros"
+keywords = ["surrealdb", "surreal", "surrealql", "database"]
+license = "MIT"
